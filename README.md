@@ -1,6 +1,6 @@
 # dms-fileconv
 
-Table of Contents
+#Table of Contents
 
     About The Project
         Built With
@@ -14,14 +14,12 @@ Table of Contents
     Contact
     Acknowledgements
 
-About The Project
-
-![Product Name Screen Shot][product-screenshot]
+#About The Project
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo_name, twitter_handle, email, project_title, project_description
 Built With
 
-Getting Started
+#Getting Started
 
 To get a local copy up and running follow these simple steps.
 Prerequisites
@@ -32,7 +30,7 @@ This is an example of how to list things you need to use the software and how to
 
     npm install npm@latest -g
 
-Installation
+#Installation
 
     Clone the repo
 
@@ -42,15 +40,15 @@ Installation
 
     npm install
 
-Usage
+#Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 For more examples, please refer to the Documentation
-Roadmap
+#Roadmap
 
 See the open issues for a list of proposed features (and known issues).
-Contributing
+#Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -60,13 +58,13 @@ Contributions are what make the open source community such an amazing place to b
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
 
-License
+#License
 
 Distributed under the MIT License. See LICENSE for more information.
 Contact
 
-Your Name - @twitter_handle - email
+#David Figeuroa- divad.figueroa@gmail.com
 
-Project Link: https://github.com/github_username/repo_name
+#Project Link: https://github.com/github/divadf/dms-fileconv
 Acknowledgements
 
