@@ -1,19 +1,5 @@
 # dms-fileconv
 
-# Table of Contents
-
-    ! About The Project
-        !! Built With
-    ! Getting Started
-        Prerequisites
-        Installation
-    Usage
-    Roadmap
-    Contributing
-    License
-    Contact
-    Acknowledgements
-
 # About The Project
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: github_username, repo_name, twitter_handle, email, project_title, project_description
